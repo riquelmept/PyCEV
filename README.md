@@ -1,2 +1,2 @@
 # PyCEV
-Exercícios das aulas da plataforma Studonauta sobre Python
+Exercícios das aulas da plataforma Estudonauta sobre Python
